@@ -1,0 +1,26 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+}
+h1 {
+    color: rgb(253, 170, 45);
+    text-align: center;
+}
+h2 {
+    color: rgb(253, 170, 45);
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border: 50%;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(253, 170, 45);
+}
